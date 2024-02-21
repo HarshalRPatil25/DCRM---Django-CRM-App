@@ -12,7 +12,7 @@ DCRM is a Django-based customer relationship management (CRM) app developed to d
 ```bash
 git clone https://github.com/HarshalRPatil25/DCRM---Django-CRM-App.git
 ```
-
+ 
 ### 2. Install Dependencies
 Navigate to the project directory and install the required dependencies using pip:
 ```bash
