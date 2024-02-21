@@ -6,7 +6,7 @@
 ## Description
 DCRM is a Django-based customer relationship management (CRM) app developed to demonstrate how to build a fully-functional CRM application using Django, Python, and MySQL.
 
-## Setup
+## Setup 
 
 ### 1. Clone the Repository
 ```bash
